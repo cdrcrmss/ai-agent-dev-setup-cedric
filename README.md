@@ -1,10 +1,14 @@
 Lord Cedric D. Ramos, Full Stack Web Dev with AI Agentic SPUP
+
 ✅ Node.js installed (screenshot of 'node --version' command)
 <img width="1061" height="56" alt="image" src="https://github.com/user-attachments/assets/fc815a98-0b27-4a3e-a14f-dbbf514ae9f6" />
+
 ✅ Git installed (screenshot of 'git --version' command)
 <img width="374" height="73" alt="image" src="https://github.com/user-attachments/assets/5bf85fe1-fd48-44aa-974e-996c8faa86e1" />
+
 ✅ VS Code Insider running with GitHub Copilot enabled (screenshot)
 <img width="2557" height="1599" alt="image" src="https://github.com/user-attachments/assets/866b4da1-17f9-4eab-bc22-6e85f13ba074" />
+
 ✅ Claude Desktop open with all 4 MCP servers connected (screenshot)
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/c43d1f26-7990-485a-9fee-758b744a03a6" />
 <img width="336" height="455" alt="image" src="https://github.com/user-attachments/assets/0178c117-b194-46f5-93ac-a16d0735af06" />
