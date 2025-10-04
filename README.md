@@ -4,6 +4,7 @@ Lord Cedric D. Ramos, Full Stack Web Dev with AI Agentic SPUP
 <img width="1061" height="56" alt="image" src="https://github.com/user-attachments/assets/fc815a98-0b27-4a3e-a14f-dbbf514ae9f6" />
 
 ✅ Git installed (screenshot of 'git --version' command)
+
 <img width="374" height="73" alt="image" src="https://github.com/user-attachments/assets/5bf85fe1-fd48-44aa-974e-996c8faa86e1" />
 
 ✅ VS Code Insider running with GitHub Copilot enabled (screenshot)
